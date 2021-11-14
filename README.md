@@ -21,4 +21,4 @@ Knowing how to use documentation is important. We can always check what classes 
 Note: the Bootstrap site uses CSS notation for classes, which entails having a . before a class name like .example-class-name.
 
 ## Take a look at the live example here:
-  
+https://bucheli-web-development-bootstrap-course-containers.netlify.app/
