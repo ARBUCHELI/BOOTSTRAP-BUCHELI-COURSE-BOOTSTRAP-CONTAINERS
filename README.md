@@ -19,3 +19,6 @@ If we wanted the container to take up the entire width of the screen we can assi
 Knowing how to use documentation is important. We can always check what classes to add using Bootstrap’s grid documentation.
 
 Note: the Bootstrap site uses CSS notation for classes, which entails having a . before a class name like .example-class-name.
+
+## Take a look at the live example here:
+  
